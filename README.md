@@ -3,6 +3,12 @@ Elizabeth Schaefer's Portfolio
 
 '''
 
+gmap.c:
+
+Implementation of an Abstract Data Type. This ADT defines a map from generic keys to generic values, with the functions used for hashing, copying, comparing, and freeing the keys passed to the map upon creation.
+
+***Utilizes C, linked lists, hash tables, function pointers, and memory management***
+
 filter_portfolio.c:
 This C program processes BMP image files, allowing users to apply filters such as blur, grayscale, reflection, or sepia via command-line arguments. It validates input, opens and reads BMP files, applies filters, and saves the modified image.
 
