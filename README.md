@@ -9,11 +9,6 @@ Implementation of an Abstract Data Type. This ADT defines a map from generic key
 
 ***Utilizes C, linked lists, hash tables, function pointers, and memory management***
 
-filter_portfolio.c:
-This C program processes BMP image files, allowing users to apply filters such as blur, grayscale, reflection, or sepia via command-line arguments. It validates input, opens and reads BMP files, applies filters, and saves the modified image.
-
-***Utilizes C, input and output files, image bitmaps, and pixel manipulation***
-
 '''
 
 racket_portfolio.rkt:
